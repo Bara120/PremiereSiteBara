@@ -1,0 +1,143 @@
+body
+{    background-color: azure;
+	font-size : 1.1em;
+}
+header
+{
+	background-image : url("images/blaise3.jpg");
+}
+#en_tete
+{
+	color : blue ;
+	font-family : "arial black";
+	text-align : center;
+	text-decoration : underline;
+	background-color : fuchsia;
+}
+.connecter
+{
+	margin-right : 11%;
+}
+.sous_menu1
+{
+	text-align : right;
+}
+#connecter
+{
+	border : none;
+}
+h3
+{
+	color : red ;
+	text-decoration : underline;
+}
+.presentation
+{
+	text-shadow : 2px 2px 4px black ;
+	font-size : 1.15em;
+	text-align : justify;
+}
+.bp
+{
+	font-family : "arial";
+	color : rgb(183,0,0);
+	text-shadow : 2px 2px 4px maroon;
+}
+#corps
+{
+	font-style : italic;
+	background : url("images/blaise1.jpg") no-repeat right ;
+}
+#pied_de_page
+{
+	text-decoration : underline green;
+}
+.phone
+{
+	background-color : green;
+	color : yellow;
+}
+.avatar
+{
+	float : left;
+	margin-right : 5px;
+}
+.sous_pape
+{
+	clear : both;
+}
+#menu
+{
+	margin-top : 50px;
+	margin-bottom : 50px;
+	display : flex;
+	justify-content : space-between;
+	background-image : url("images/fond1.jpg");
+	overflow : auto;
+}
+.sous_menu_labo
+{
+	width : 20%;
+	min-width : 150px;
+}
+.sous_menu_cours
+{
+	width : 40%;
+	min-width : 250px;
+}1
+.sous_menu
+{
+	width : 31%;
+	min-width : 250px;
+}
+.image_pied_page
+{
+	width : 100%;
+	height : 80px;
+}
+a:hover
+{
+	color : red;
+}
+hr
+{
+	background-color : blue;
+	height : 2px;
+}
+
+}
+h2
+{
+	text-decoration : underline;
+	color : fuchsia;
+}
+
+
+	
+}
+.gras_souligne
+{
+	font-weight : bold;
+	font-size : 20px;
+	text-decoration : underline;
+}
+.italic
+{
+	font-style : italic;
+}
+
+
+ul.soulign li
+{
+	text-decoration : underline;
+	font-family : arial;
+}
+#bill2
+{
+	margin-left : 35px;
+}
+#bill3
+{
+	margin-left : 35px;
+}
+
